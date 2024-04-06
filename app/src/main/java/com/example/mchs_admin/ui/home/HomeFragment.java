@@ -55,7 +55,7 @@ public class HomeFragment extends Fragment {
     }
 
     private void getPhotoUrlsFromServer() {
-        String url = "https://claimbe.store/mchs/return.php"; // Замените на ваш URL-адрес сервера
+        String url = "https://claimbes.store/mchs/return.php"; // Замените на ваш URL-адрес сервера
 
         OkHttpClient client = new OkHttpClient();
 
